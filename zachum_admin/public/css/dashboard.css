@@ -1,0 +1,15 @@
+.navbar-bg {
+    position: fixed;
+    top: 0;
+    z-index: 50;
+    width: 100%;
+    background-color: #0f5061;
+    border-bottom: 1px solid #ccc; /* Light gray border */
+}
+
+.custom-bg {
+    background-color: #0f5061;
+}
+body {
+    background-color: #f3f2f7;
+}

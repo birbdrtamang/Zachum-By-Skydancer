@@ -1,0 +1,18 @@
+.oregano-regular {
+    font-family: "Oregano", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.background-section {
+    background-image: url("../img/yarkay.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-color: rgba(
+        0,
+        0,
+        0,
+        0.5
+    ); /* Optional: Add a semi-transparent overlay */
+}
